@@ -140,3 +140,1465 @@
 {"level":"info","message":"Password hashed successfully for user with email: keanu@gmail.com"}
 {"level":"info","message":"User created successfully: {\n  email: 'keanu@gmail.com',\n  password: '$2b$10$NkIxWtzAzcZ2jctsVzl6Iu/ptpRwHT9SjevyjfVfBXPJouOyAnlKi',\n  first_name: 'Keanu',\n  last_name: 'Reaves',\n  phone_number: '85894',\n  _id: new ObjectId(\"641d446133ed1355f8cee108\"),\n  createdAt: 2023-03-24T06:34:09.345Z,\n  updatedAt: 2023-03-24T06:34:09.345Z,\n  __v: 0\n}"}
 {"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"User with james@gmail.com already registered"}
+{"level":"info","message":"Password hashed successfully for user with email: sergio@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  email: 'sergio@gmail.com',\n  password: '$2b$10$FAs32x7LiQjTMDMQMR8lzuvdjOV.7192gow1nFP4cVIrqN4DjejHy',\n  first_name: 'Sergio',\n  last_name: 'Ramos',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"641d49e711d5338f8252c29d\"),\n  createdAt: 2023-03-24T06:57:43.118Z,\n  updatedAt: 2023-03-24T06:57:43.118Z,\n  __v: 0\n}"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"error","message":"User with sergio@gmail.com already registered"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Password hashed successfully for user with email: ironman@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  email: 'ironman@gmail.com',\n  password: '$2b$10$mXZoIAXmd8xkJBJxNNOuduJfXyjHqY1DDt8bR/wadtSSoh9FsE7sm',\n  first_name: 'Tony',\n  last_name: 'Stark',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"641d6570539b2e7f28414a08\"),\n  createdAt: 2023-03-24T08:55:12.439Z,\n  updatedAt: 2023-03-24T08:55:12.439Z,\n  __v: 0\n}"}
+{"level":"error","message":"Please fill the mandatory fields"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Password hashed successfully for user with email: faizan@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  email: 'faizan@gmail.com',\n  password: '$2b$10$NIa630FAl6nmcV23E/8Z9.KoWSQRFN2RITDSE8eVg1LCGMEcKsiVG',\n  first_name: 'Faizan',\n  last_name: 'Mansuri',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"641d6fed41dd1c9b9ed5d44a\"),\n  createdAt: 2023-03-24T09:39:57.848Z,\n  updatedAt: 2023-03-24T09:39:57.848Z,\n  __v: 0\n}"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User with faizan@gmail.com already registered"}
+{"level":"info","message":"Password hashed successfully for user with email: faizanmansuri@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  email: 'faizanmansuri@gmail.com',\n  password: '$2b$10$5Prp3V5.LNy5U3avShy3OOlftrjciAB.29blIOdoq/c5iAlcbkUTS',\n  first_name: 'Faizan',\n  last_name: 'Mansuri',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"641d73e9b8005333b0492a01\"),\n  createdAt: 2023-03-24T09:56:57.784Z,\n  updatedAt: 2023-03-24T09:56:57.784Z,\n  __v: 0\n}"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Password hashed successfully for user with email: unknown@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  email: 'unknown@gmail.com',\n  password: '$2b$10$Kt97LtIM13LNYZ9zpF9o7eiBLCkggO/d9OzUS/6cjHaJ.6FY3QgEW',\n  first_name: 'unknown',\n  last_name: 'person',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"641d8d20ed349afc5d78bb3f\"),\n  createdAt: 2023-03-24T11:44:32.380Z,\n  updatedAt: 2023-03-24T11:44:32.380Z,\n  __v: 0\n}"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"New booking created with id: $(booking._id)"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"New booking created with id: {$booking._id}"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"New booking created with id: {$booking.id}"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside userProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"User with keanu@gmail.com already registered"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: keanur@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Keanu',\n  email: 'keanur@gmail.com',\n  password: '$2b$10$70p9pJeYCU56.8PlBPymz.Zr2F5puYGuiHIIL0owyVvJJKD1n9w1W',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"64208d2c51a6c1d304af4d7d\"),\n  createdAt: 2023-03-26T18:21:32.424Z,\n  updatedAt: 2023-03-26T18:21:32.424Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside userProfile"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"All fields are mandatory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: keanuR@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Keanu',\n  email: 'keanuR@gmail.com',\n  password: '$2b$10$8bqKvaBiMWsZoQFY7UCS5.QhG62kTClQeOOOOzhohoV69v/xVgg86',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6421159de10d259106dc241f\"),\n  createdAt: 2023-03-27T04:03:41.388Z,\n  updatedAt: 2023-03-27T04:03:41.388Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside userProfile"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking: Booking validation failed: fare: Path `fare` is required."}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"error","message":"Error in createBooking: fare is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"New booking created with id: 642126acc028385b71857563"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: captain@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Keanu',\n  email: 'captain@gmail.com',\n  password: '$2b$10$IpFT/8upPbUZH.YVcERqNuIFYuGFK.GsqchKuQSjaa4ARXvEvne7e',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6421d914c509095a8054a5ec\"),\n  createdAt: 2023-03-27T17:57:40.935Z,\n  updatedAt: 2023-03-27T17:57:40.935Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: amankhan@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Aman',\n  email: 'amankhan@gmail.com',\n  password: '$2b$10$PqHxFdec7nJOTdbNuYMgvuW9WKMZ37GthCTZ0wfGUmyKVzttGZwYO',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6421deef46414fb1cde7d52c\"),\n  createdAt: 2023-03-27T18:22:39.809Z,\n  updatedAt: 2023-03-27T18:22:39.809Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"New booking created with id: 6421df9046414fb1cde7d52f"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"Please fill the mandatory fields"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: amankhann@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Aman',\n  email: 'amankhann@gmail.com',\n  password: '$2b$10$dt3SM5c6Q45QDRdfO2EdOegD6VoymZTfMQaOQV06po0U1jPwGZ15i',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"6421e18ebb4e83bb0aa77568\"),\n  createdAt: 2023-03-27T18:33:50.161Z,\n  updatedAt: 2023-03-27T18:33:50.161Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"New booking created with id: 6421e1febb4e83bb0aa7756b"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"New booking created with id: 6421e255bb4e83bb0aa7756f"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside payment"}
+{"level":"error","message":"Error in payment"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside payment"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside payment"}
+{"code":"missing","doc_url":"https://stripe.com/docs/error-codes/missing","headers":{"access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST, HEAD, OPTIONS, DELETE","access-control-allow-origin":"*","access-control-expose-headers":"Request-Id, Stripe-Manage-Version, X-Stripe-External-Auth-Required, X-Stripe-Privileged-Session-Required","access-control-max-age":"300","cache-control":"no-cache, no-store","connection":"keep-alive","content-length":"316","content-type":"application/json","date":"Tue, 28 Mar 2023 09:21:04 GMT","idempotency-key":"87155754-52d3-41d3-898c-b14189847af7","original-request":"req_l9rPf7tV6lDsIX","request-id":"req_l9rPf7tV6lDsIX","server":"nginx","strict-transport-security":"max-age=63072000; includeSubDomains; preload","stripe-version":"2022-11-15"},"level":"error","param":"card","raw":{"code":"missing","doc_url":"https://stripe.com/docs/error-codes/missing","headers":{"access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST, HEAD, OPTIONS, DELETE","access-control-allow-origin":"*","access-control-expose-headers":"Request-Id, Stripe-Manage-Version, X-Stripe-External-Auth-Required, X-Stripe-Privileged-Session-Required","access-control-max-age":"300","cache-control":"no-cache, no-store","connection":"keep-alive","content-length":"316","content-type":"application/json","date":"Tue, 28 Mar 2023 09:21:04 GMT","idempotency-key":"87155754-52d3-41d3-898c-b14189847af7","original-request":"req_l9rPf7tV6lDsIX","request-id":"req_l9rPf7tV6lDsIX","server":"nginx","strict-transport-security":"max-age=63072000; includeSubDomains; preload","stripe-version":"2022-11-15"},"message":"Cannot charge a customer that has no active card","param":"card","requestId":"req_l9rPf7tV6lDsIX","request_log_url":"https://dashboard.stripe.com/test/logs/req_l9rPf7tV6lDsIX?t=1679995264","statusCode":402,"type":"card_error"},"rawType":"card_error","requestId":"req_l9rPf7tV6lDsIX","statusCode":402,"type":"StripeCardError"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"Please fill the mandatory fields"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: rajnesh@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Rajnesh',\n  email: 'rajnesh@gmail.com',\n  password: '$2b$10$ZonuyZ2bEehEes8zuPGJ3Ogu.6IPCEMvnBYDohYWuXUNQuuCKRzTC',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422c3efc850aa1b679bcfec\"),\n  createdAt: 2023-03-28T10:39:43.394Z,\n  updatedAt: 2023-03-28T10:39:43.394Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"New booking created with id: 6422c42dc850aa1b679bcfef"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: ritika@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ritka',\n  email: 'ritika@gmail.com',\n  password: '$2b$10$FFKh7k1x9zb0QcwXejlQiOLsPoN4a0YwX.mauIVBUHex4sq8C3gGO',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"6422c45ac850aa1b679bcff3\"),\n  createdAt: 2023-03-28T10:41:30.541Z,\n  updatedAt: 2023-03-28T10:41:30.541Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"User with faizan@gmail.com already registered"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: Steve@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Steve',\n  email: 'Steve@gmail.com',\n  password: '$2b$10$zUlaxbaagbSvPtfgVEwDAOhCPB2pkGLNNv3AWCxr6HPIzUSm9paXK',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422c49ec850aa1b679bcff8\"),\n  createdAt: 2023-03-28T10:42:38.185Z,\n  updatedAt: 2023-03-28T10:42:38.185Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: SteveMendes@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Steve',\n  email: 'SteveMendes@gmail.com',\n  password: '$2b$10$Wq39xm5q3YJB7vEJ5Qd.duiNWVXm7I5EomW/on9esgwkQedUcG2Mq',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422c4f5c850aa1b679bcffc\"),\n  createdAt: 2023-03-28T10:44:05.460Z,\n  updatedAt: 2023-03-28T10:44:05.460Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: SteveMendess@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Steve',\n  email: 'SteveMendess@gmail.com',\n  password: '$2b$10$HR.5npjyGcCZIjF7zMlgLuNAAvA41dQ8kExezHeS8dPZ.KQlx1YtS',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"6422c4fdc850aa1b679bcfff\"),\n  createdAt: 2023-03-28T10:44:13.513Z,\n  updatedAt: 2023-03-28T10:44:13.513Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"New booking created with id: 6422c705e99091f921fae73a"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: Mahir@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mahir',\n  email: 'Mahir@gmail.com',\n  password: '$2b$10$hBWhIqu4RgoFldegEC5dUuR7UiE495wB6JmqNEk0nVHD0M3e.ZHLa',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"6422ce43fa148cb9813e796b\"),\n  createdAt: 2023-03-28T11:23:47.824Z,\n  updatedAt: 2023-03-28T11:23:47.824Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: MahirNodeJS@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mahir',\n  email: 'MahirNodeJS@gmail.com',\n  password: '$2b$10$zLnNl6OhgkygknnnM24mU.4d18tCJgF3KFinZ2P1eJ84HSP84V2ri',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422cee4fa148cb9813e7971\"),\n  createdAt: 2023-03-28T11:26:28.310Z,\n  updatedAt: 2023-03-28T11:26:28.310Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: Faiza@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Faiz',\n  email: 'Faiza@gmail.com',\n  password: '$2b$10$8.oQ3dh6mnu1xvbvp5oa2u8A3bzLbaEmWvQeqdYEQl./polzjUKqO',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"6422d23f1f1ccd0826e5f202\"),\n  createdAt: 2023-03-28T11:40:47.328Z,\n  updatedAt: 2023-03-28T11:40:47.328Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: dummy@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'dummy',\n  email: 'dummy@gmail.com',\n  password: '$2b$10$PAnc3US80uoYiUny.1ZREuWMPTIdqNa/mkyELtPViH9gAk4zpE8Qi',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422d348054dfde690ecbf9b\"),\n  createdAt: 2023-03-28T11:45:12.917Z,\n  updatedAt: 2023-03-28T11:45:12.917Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: sahil@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Sahil',\n  email: 'sahil@gmail.com',\n  password: '$2b$10$AGn2GOyGbi30xyLWpIuUh.hulC/FA0nLvEWsFLqvCddHIdNX/6/tS',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422d4671caf4da5dd33c560\"),\n  createdAt: 2023-03-28T11:49:59.595Z,\n  updatedAt: 2023-03-28T11:49:59.595Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Email or Password is not valid"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"New booking created with id: 6422d7911e6baaa3a1dc7b0b"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: Rajneeshsir@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Rajneesh',\n  email: 'Rajneeshsir@gmail.com',\n  password: '$2b$10$nLAv.FuFwSvMJxVW0PLI0e7SpPijmdpXxdaA/ZyE/gLFW2flT9W3K',\n  phone_number: '85894',\n  role: 'user',\n  isAdmin: false,\n  _id: new ObjectId(\"6422dc0a13c1bb9ca81f65b2\"),\n  createdAt: 2023-03-28T12:22:34.101Z,\n  updatedAt: 2023-03-28T12:22:34.101Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"New booking created with id: 6422dc3f13c1bb9ca81f65b5"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"New booking created with id: 6422dcf17d79e27c929ff8ef"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"error","message":"User not found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: rajesh@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Rajesh',\n  email: 'rajesh@gmail.com',\n  password: '$2b$10$D9Ncat03yJ4oYTxNo.mEGuIrhSphEd18o423ZfYCkqCN97BLodflW',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6422e71d317a912ec3e7972d\"),\n  createdAt: 2023-03-28T13:09:49.296Z,\n  updatedAt: 2023-03-28T13:09:49.296Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 6422e818317a912ec3e79730"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"No bookings found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"No bookings found"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"No bookings found"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"error","message":"Error in bookingHistory: Booking is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside bookingHistory"}
+{"level":"error","message":"Error in bookingHistory: Booking is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"No bookings found."}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 6423d8d307564f5ae861c782"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: newuser@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'new',\n  email: 'newuser@gmail.com',\n  password: '$2b$10$Bu6oDcCBE27G96sHpIMymulJwHQ6zzeVWT5jIGe4lUT52uJ8n9Rku',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6423ddfbe7acaed5de748670\"),\n  createdAt: 2023-03-29T06:43:07.936Z,\n  updatedAt: 2023-03-29T06:43:07.936Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"error"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"error"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"error"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"error"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"error"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside distance api"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"info","message":"inside distance api"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: faizansolulab@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'faizan',\n  email: 'faizansolulab@gmail.com',\n  password: '$2b$10$MSbIz4odHDydseWjdQ0YTOMjRtsJNOPbbokaXtFYwYsOyNFgsfNrS',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"64241040b7844b1d4738ede0\"),\n  createdAt: 2023-03-29T10:17:36.131Z,\n  updatedAt: 2023-03-29T10:17:36.131Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 6424107fb7844b1d4738ede3"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: rajneeshsolulab@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'rajnesh',\n  email: 'rajneeshsolulab@gmail.com',\n  password: '$2b$10$pkIJM93YNgiIKtuYUyi3U.6G8fOlKQibSocVMowrl6Kmv3nAMXeJi',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"642410bcb7844b1d4738ede8\"),\n  createdAt: 2023-03-29T10:19:40.765Z,\n  updatedAt: 2023-03-29T10:19:40.765Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: rajneesh122solulab@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'rajnesh',\n  email: 'rajneesh122solulab@gmail.com',\n  password: '$2b$10$BgVqB401QELX3tllgXJHPe4crSeMNZFZO5FnNyqYJ2mw36lOGZdWW',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"642410d9b7844b1d4738edeb\"),\n  createdAt: 2023-03-29T10:20:09.281Z,\n  updatedAt: 2023-03-29T10:20:09.281Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 64241224b7844b1d4738edf1"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 64241252b7844b1d4738edf5"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside addressPredictions"}
+{"level":"info","message":"inside distance api"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: rajneesh123solulab@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'rajnesh',\n  email: 'rajneesh123solulab@gmail.com',\n  password: '$2b$10$4.x5U/eA6RRGGTnApKY4t.Y2.IVDJEfDD4sC8feTzgAkRLuhQxbKa',\n  phone_number: '85894',\n  role: 'user',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"64242018247c0bec6e444037\"),\n  createdAt: 2023-03-29T11:25:12.096Z,\n  updatedAt: 2023-03-29T11:25:12.096Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: sandeep@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Sandeep',\n  email: 'sandeep@gmail.com',\n  password: '$2b$10$3KCkOtwDnkk04UqZ4N5O1utTKhqq24dDGC8XHmMV0jLUTlfOUWvfS',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"64242d3ec5deb028618c3e0c\"),\n  createdAt: 2023-03-29T12:21:18.363Z,\n  updatedAt: 2023-03-29T12:21:18.363Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: ajay@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ajay',\n  email: 'ajay@gmail.com',\n  password: '$2b$10$VKcnD4u4rbOhqZDY.hqze.4LYEzrnpAqqtVVNCVCeYnJhL/j2wza.',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6424330664cec0ca4e279e10\"),\n  createdAt: 2023-03-29T12:45:58.709Z,\n  updatedAt: 2023-03-29T12:45:58.709Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"error","message":"Email and Passwords are required"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"error","message":"Email and Passwords are required"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: ajay@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: ajay123@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ajay',\n  email: 'ajay123@gmail.com',\n  password: '$2b$10$D4pmp9fGnMEE25CiKTXhIucfnaprZa212SOtMz4Yb/LMEB.hf4Ozi',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6424366d6ce849e5ca71f6a2\"),\n  createdAt: 2023-03-29T13:00:29.868Z,\n  updatedAt: 2023-03-29T13:00:29.868Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: ajay123@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: faizan123@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Faizan',\n  email: 'faizan123@gmail.com',\n  password: '$2b$10$2jEIPVssx7jhS.RqUFEjnOh0/JbkUEDUv9mBzE8E2ao4dOcC6s.Gu',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"642438ea2626ea5f30ab40f4\"),\n  createdAt: 2023-03-29T13:11:06.933Z,\n  updatedAt: 2023-03-29T13:11:06.933Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: faizan123@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: faizan123@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: faizan123@gmail.com"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: manoj@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Manoj',\n  email: 'manoj@gmail.com',\n  password: '$2b$10$oMvIp31.kRtyrwulns0xMu2pNOQEX730CEUjIft8SS2WIrGlVDEsG',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: false,\n  _id: new ObjectId(\"6424bcbef2f2bdfa5fe0549f\"),\n  createdAt: 2023-03-29T22:33:34.109Z,\n  updatedAt: 2023-03-29T22:33:34.109Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 6424bd0cf2f2bdfa5fe054a2"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Erro is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Geocoding error: ZERO_RESULTS"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Geocoding error: ZERO_RESULTS"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 6424be040a88291e41336b1f"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerDriver"}
+{"level":"info","message":"Password hashed successfully for driver with email: manoj@gmail.com"}
+{"level":"info","message":"Driver created successfully: {\n  name: 'Manoj',\n  email: 'manoj@gmail.com',\n  password: '$2b$10$BPP.T.LxcnBWR/iyTKDJEe9xwh8vW0Ccf0jHKW3rJL0xpSK32E70K',\n  phone_number: '1234',\n  license_number: '4321',\n  car_model: 'Toyota',\n  car_number: '4321',\n  is_available: false,\n  _id: new ObjectId(\"6424d647ba3c92d50b22f1ea\"),\n  __v: 0\n}"}
+{"level":"info","message":"inside loginDriver"}
+{"level":"error","message":"Error in Driver login"}
+{"level":"info","message":"inside loginDriver"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerDriver"}
+{"level":"info","message":"Password hashed successfully for driver with email: chirag@gmail.com"}
+{"level":"info","message":"Driver created successfully: {\n  name: 'Chirag',\n  email: 'chirag@gmail.com',\n  password: '$2b$10$/HoPakRPe7lKGJ3MwnM86.zR718DrfxkqnuTEhFloGRZxVqt4QVL2',\n  phone_number: '1234',\n  license_number: '4567',\n  car_model: 'Nissan',\n  car_number: '4567',\n  is_available: false,\n  _id: new ObjectId(\"6424d7edfd76acd087a03b3f\"),\n  __v: 0\n}"}
+{"level":"info","message":"inside loginDriver"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: manali@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Manali',\n  email: 'manali@gmail.com',\n  password: '$2b$10$8atl5pqAQo72pV86PToQMuchQYD65Zxr.7sPGy2HylPjqvWm4oMoS',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"6424d857fd76acd087a03b43\"),\n  createdAt: 2023-03-30T00:31:19.234Z,\n  updatedAt: 2023-03-30T00:31:19.234Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: harvey@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Harvey',\n  email: 'harvey@gmail.com',\n  password: '$2b$10$TlLZWEfVXBtIyyC36ywP/ORgabS0LKrIDYcbz98HbrC5lV0Dy0Yn.',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"64251cf04891b5ab9eb871d9\"),\n  createdAt: 2023-03-30T05:24:00.463Z,\n  updatedAt: 2023-03-30T05:24:00.463Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: sharvey@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'SHarvey',\n  email: 'sharvey@gmail.com',\n  password: '$2b$10$P/5PAu0k48U4q1Bvjilu7Og293e1U4WgQDoDpEdyXdjyTBkKNYLU.',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"642529b458ca4028064d5c6b\"),\n  createdAt: 2023-03-30T06:18:28.462Z,\n  updatedAt: 2023-03-30T06:18:28.462Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: shawn@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Shawn',\n  email: 'shawn@gmail.com',\n  password: '$2b$10$dSqIupOYVIscjCZDLZGpbeIwD3li3XR482lK4m/sx/W/2Zr1jlcri',\n  phone_number: '85894',\n  booking_history: [],\n  isAdmin: true,\n  _id: new ObjectId(\"64252ed6bdcc91720a913107\"),\n  createdAt: 2023-03-30T06:40:22.970Z,\n  updatedAt: 2023-03-30T06:40:22.970Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: drivershawn@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Shawn',\n  email: 'drivershawn@gmail.com',\n  password: '$2b$10$wLwM40MOYnvhIAQ3ICtM4eDD3GpkNkHWL5PidGOqxqDWhncGLnF.G',\n  phoneNumber: '85894',\n  role: 'driver',\n  isAvailable: false,\n  _id: new ObjectId(\"64255ef69e25820cffde653d\"),\n  createdAt: 2023-03-30T10:05:42.549Z,\n  updatedAt: 2023-03-30T10:05:42.549Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: driverted@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ted',\n  email: 'driverted@gmail.com',\n  password: '$2b$10$P./sm8E8AGrCdfBgv7KIUO8/ugfr8Wv0fLlGQA2NoC9csq9G.qtjq',\n  phoneNumber: '85894',\n  role: 'driver',\n  licenseNumber: '1234',\n  carModel: 'Toyota',\n  carNumber: '1234',\n  isAvailable: false,\n  _id: new ObjectId(\"64255f6d9e25820cffde6540\"),\n  createdAt: 2023-03-30T10:07:41.770Z,\n  updatedAt: 2023-03-30T10:07:41.770Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: driverted2@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ted2',\n  email: 'driverted2@gmail.com',\n  password: '$2b$10$WmoyuB.DyMPGS2keUMRY0eEMth4kDFlZhel/TjkU1dxYwv31yGiu2',\n  phoneNumber: '85894',\n  role: 'driver',\n  licenseNumber: '1245',\n  carModel: 'Nissan',\n  carNumber: '1245',\n  isAvailable: false,\n  _id: new ObjectId(\"64255fc29e25820cffde6544\"),\n  createdAt: 2023-03-30T10:09:06.440Z,\n  updatedAt: 2023-03-30T10:09:06.440Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: adminted@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ted',\n  email: 'adminted@gmail.com',\n  password: '$2b$10$WUB7BPxuZETGPPsufsN3HOoN8hLmpiz79uzparyWFP/0gkPRo2O7O',\n  phoneNumber: '85894',\n  role: 'admin',\n  isAvailable: false,\n  _id: new ObjectId(\"64255ffc9e25820cffde6548\"),\n  createdAt: 2023-03-30T10:10:04.030Z,\n  updatedAt: 2023-03-30T10:10:04.030Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: ted@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Ted',\n  email: 'ted@gmail.com',\n  password: '$2b$10$53H5f/HTsDHCf2fO5I296ur1D2w6LpAE6ALjR.sXHC..68esx40aq',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"642560509e25820cffde654c\"),\n  createdAt: 2023-03-30T10:11:28.518Z,\n  updatedAt: 2023-03-30T10:11:28.518Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 6425616f1110507f816c5836"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"New booking created with id: 642561b51110507f816c5839"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: longitude is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Ontario, Canada"}
+{"level":"info","message":"New booking created with id: 642581193eee84a3822e5121"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: longitude is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('64255fc29e25820cffde6544'), name: \"Ted2\", email: \"driverted2@gmail.com\", password: \"$2b$10$WmoyuB.DyMPGS2keUMRY0eEMth4kDFlZhel/TjkU1dxYwv31yGiu2\", phoneNumber: \"85894\", role: \"driver\", licenseNumber: \"1245\", carModel: \"Nissan\", carNumber: \"1245\", isAvailable: false, createdAt: new Date(1680170946440), updatedAt: new Date(1680179831972), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Ontario, Canada"}
+{"level":"info","message":"New booking created with id: 642582a52c5c5a0ef05cf0bf"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Ontario, Canada"}
+{"level":"info","message":"New booking created with id: 642582d42c5c5a0ef05cf0c5"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Ontario, Canada"}
+{"level":"info","message":"New booking created with id: 642582f12c5c5a0ef05cf0cb"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Ontario, Canada"}
+{"level":"info","message":"New booking created with id: 642583a02c5c5a0ef05cf0d1"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"User with dummy@gmail.com already registered"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mock@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mock@gmail.com',\n  password: '$2b$10$SzV6W5VdrP6jHs5z7S0A4OUMeZUXmHOaItMtVJJqCQqDbH/UubBra',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"64258a0a5ed9d861828efafe\"),\n  createdAt: 2023-03-30T13:09:30.783Z,\n  updatedAt: 2023-03-30T13:09:30.783Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockadmin@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mockadmin@gmail.com',\n  password: '$2b$10$BDOdF6WXM38q.ot2AsWSe.V8WIo79YK3ROKzPB0Q45WVu5CT3p5DO',\n  phoneNumber: '85894',\n  role: 'admin',\n  isAvailable: false,\n  _id: new ObjectId(\"64258cb75ed9d861828efb02\"),\n  createdAt: 2023-03-30T13:20:55.411Z,\n  updatedAt: 2023-03-30T13:20:55.411Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: mockadmin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: mockadmin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockuser@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mockuser@gmail.com',\n  password: '$2b$10$QE3Z.Y0Su498FctGz2PJEOZ/HwNhUF.AIAYTMfekAdTXcSeU3RJgO',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"6426557cea64575788b3b456\"),\n  createdAt: 2023-03-31T03:37:32.745Z,\n  updatedAt: 2023-03-31T03:37:32.745Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside updateProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getBookingsByID"}
+{"level":"error","message":"No bookings found."}
+{"level":"error","message":"Error in getBookings: Cannot set headers after they are sent to the client"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Juhu, Mumbai, Maharashtra 400049, India"}
+{"level":"info","message":"New booking created with id: 64265bd95ad0f6cd3d369e70"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getBookingsByID"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockuser1@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mockuser1@gmail.com',\n  password: '$2b$10$CpVuHm1RTBDZ6wXRIcFlDOil4FaxVuSx8d.chbIqdkGokbshzAxmq',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"642675c95a59bacd0185a4ff\"),\n  createdAt: 2023-03-31T05:55:21.515Z,\n  updatedAt: 2023-03-31T05:55:21.515Z,\n  __v: 0\n}"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockuser2@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mockuser2@gmail.com',\n  password: '$2b$10$A0tJTKCYTsc7an3F.IZSGec1rBV0gyk2EIu5T/SjPsLjglcUrbug.',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"642676b623bb45c7d471d5e9\"),\n  createdAt: 2023-03-31T05:59:18.914Z,\n  updatedAt: 2023-03-31T05:59:18.914Z,\n  __v: 0\n}"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockuser3@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mockuser3@gmail.com',\n  password: '$2b$10$IE21BEpI6V4hUVsDVXdTe.D3FnRd1Q4JGLd6.pGGlwJF4MVEcM1tG',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"642676eb6ba8b1ad93644a37\"),\n  createdAt: 2023-03-31T06:00:11.077Z,\n  updatedAt: 2023-03-31T06:00:11.077Z,\n  __v: 0\n}"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"User with mockuser3@gmail.com already registered"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockuser13@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Mock',\n  email: 'mockuser13@gmail.com',\n  password: '$2b$10$MlRWh2pGOwcXbzbR2YOTc.sQubAzldQ2cpOAO6ZXmvKavFrHs1m3W',\n  phoneNumber: '85894',\n  role: 'user',\n  isAvailable: false,\n  _id: new ObjectId(\"64267833ee29cae9438971c2\"),\n  createdAt: 2023-03-31T06:05:39.248Z,\n  updatedAt: 2023-03-31T06:05:39.248Z,\n  __v: 0\n}"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside payment"}
+{"code":"missing","doc_url":"https://stripe.com/docs/error-codes/missing","headers":{"access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST, HEAD, OPTIONS, DELETE","access-control-allow-origin":"*","access-control-expose-headers":"Request-Id, Stripe-Manage-Version, X-Stripe-External-Auth-Required, X-Stripe-Privileged-Session-Required","access-control-max-age":"300","cache-control":"no-cache, no-store","connection":"keep-alive","content-length":"316","content-type":"application/json","date":"Fri, 31 Mar 2023 06:11:19 GMT","idempotency-key":"aab28954-b279-43e0-8c47-6de5dd7f6159","original-request":"req_gvNxRzOdZCQIQ2","request-id":"req_gvNxRzOdZCQIQ2","server":"nginx","strict-transport-security":"max-age=63072000; includeSubDomains; preload","stripe-version":"2022-11-15"},"level":"error","param":"card","raw":{"code":"missing","doc_url":"https://stripe.com/docs/error-codes/missing","headers":{"access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST, HEAD, OPTIONS, DELETE","access-control-allow-origin":"*","access-control-expose-headers":"Request-Id, Stripe-Manage-Version, X-Stripe-External-Auth-Required, X-Stripe-Privileged-Session-Required","access-control-max-age":"300","cache-control":"no-cache, no-store","connection":"keep-alive","content-length":"316","content-type":"application/json","date":"Fri, 31 Mar 2023 06:11:19 GMT","idempotency-key":"aab28954-b279-43e0-8c47-6de5dd7f6159","original-request":"req_gvNxRzOdZCQIQ2","request-id":"req_gvNxRzOdZCQIQ2","server":"nginx","strict-transport-security":"max-age=63072000; includeSubDomains; preload","stripe-version":"2022-11-15"},"message":"Cannot charge a customer that has no active card","param":"card","requestId":"req_gvNxRzOdZCQIQ2","request_log_url":"https://dashboard.stripe.com/test/logs/req_gvNxRzOdZCQIQ2?t=1680243079","statusCode":402,"type":"card_error"},"rawType":"card_error","requestId":"req_gvNxRzOdZCQIQ2","statusCode":402,"type":"StripeCardError"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: mockuser123@gmail.com"}
+{"level":"error","message":"error in userRegistration sendEmail is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"User with mockuser123@gmail.com already registered"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"User info retrieved successfully"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"User info retrieved successfully"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: hellouser@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'hello',\n  email: 'hellouser@gmail.com',\n  password: '$2b$10$0YAYftXKBYIautA4jVGj0e0/QnpRVp7qJ2QwHdoLY2WDFjQN9RgHW',\n  phoneNumber: '85894',\n  role: 'user',\n  isDeleted: false,\n  isAvailable: false,\n  _id: new ObjectId(\"6426a370ece4b1a77c969345\"),\n  createdAt: 2023-03-31T09:10:08.324Z,\n  updatedAt: 2023-03-31T09:10:08.324Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: hellodriver@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'hello',\n  email: 'hellodriver@gmail.com',\n  password: '$2b$10$ytnU0dK9oh4VF5ESFQgjPOLKIvDlBxMfrEIs1AJTi57gM6cQPmrka',\n  phoneNumber: '85894',\n  role: 'driver',\n  isDeleted: false,\n  isAvailable: false,\n  _id: new ObjectId(\"6426a3a6ece4b1a77c969349\"),\n  createdAt: 2023-03-31T09:11:02.949Z,\n  updatedAt: 2023-03-31T09:11:02.949Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Al Hamra Village - Ras al Khaimah - United Arab Emirates"}
+{"level":"info","message":"New booking created with id: 6426a405ece4b1a77c969350"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getBookingsByID"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Al Hamra Village - Ras al Khaimah - United Arab Emirates"}
+{"level":"info","message":"New booking created with id: 6426a5b0ece4b1a77c969357"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Al Hamra Village - Ras al Khaimah - United Arab Emirates"}
+{"level":"info","message":"New booking created with id: 6426a5dbece4b1a77c96935d"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Al Hamra Village - Ras al Khaimah - United Arab Emirates"}
+{"level":"info","message":"New booking created with id: 6426a616ece4b1a77c969363"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Agra, Uttar Pradesh, India"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Agra, Uttar Pradesh, India"}
+{"level":"info","message":"New booking created with id: 6426aa5bb3b22eec8a388416"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}

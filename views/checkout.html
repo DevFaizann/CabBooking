@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pay For Your Ride</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://js.stripe.com/v3/"></script>
+  </head>
+  <body class="container" >
+      <div class="product">
+        <img
+          src="https://www.appindia.co.in/blog/wp-content/uploads/2020/11/taxi-booking-01.jpg"
+          alt="uber"
+          class="product_img"
+        />
+        <div class="description">
+          <h3>Your Ride</h3>
+          <h4>&#8377 100.00</h4>
+        </div>
+        <button type="button" id="btn">Pay</button>
+      </div>
+  </body>
+  <script type="text/javascript">
+     // publishable API key
+    var stripe = Stripe("pk_test_51Mq8vQSIegHdIc97QAIMGPnaoeQHWDOJ93BOCVlBATrpCSJz8kuW62wEb12uk1RWKUxYmVuP6CHnm8llXbCq4MGL00ceVJOPI5");
+    var checkoutButton = document.getElementById("btn");
+
+    checkoutButton.addEventListener("click", function () {
+      fetch("/payment", {
+        headers: {'Content-Type': 'application/json'},
+        method: "POST",
+        body: JSON.stringify({
+            "product": {
+                "name": "Cab Ride", 
+                "image": "https://www.appindia.co.in/blog/wp-content/uploads/2020/11/taxi-booking-01.jpg", 
+                "amount": 100,
+                "quantity": 1
+            }})
+      })
+        .then(function (response) {
+          return response.json();
+        })
+        .then(function (session) {
+          return stripe.redirectToCheckout({ sessionId: session.id });
+        })
+        .then(function (result) {
+        
+          if (result.error) {
+            alert(result.error.message);
+          }
+        })
+        .catch(function (error) {
+          console.error("Error:", error);
+        });
+    });
+  </script>
+</html>
