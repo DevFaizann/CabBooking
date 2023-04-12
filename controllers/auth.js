@@ -112,129 +112,19 @@ const loginUser =  async(req,res) => {
 };
 
 
-//@desc Register a Driver
-// const registerDriver = async(req, res) => {
-//   try{
-
-//     logger.info("inside registerDriver");
-
-//         const {
-//         name,
-//         email,
-//         password,
-//         phone_number,
-//         license_number,
-//         car_model,
-//         car_number
-//       } = req.body;
-
-//       if(_.isEmpty(name) || 
-//         _.isEmpty(email) || 
-//         _.isEmpty(password) ||  
-//         _.isEmpty(phone_number) || 
-//         _.isEmpty(license_number) ||
-//         _.isEmpty(car_model) ||
-//         _.isEmpty(car_number)){
-
-//             logger.error(`All fields are mandatory. Error: ${error.message}`);
-//             res.status(400).send({error: "All fields are mandatory"});
-//             return;
-//         }
-
-//         const driverAvailable = await Driver.findOne({email});
-//         if(!_.isEmpty(driverAvailable)){
-//             logger.error(`Driver with ${email} already registered`);
-//             res.status(400).send({error: "Driver already registerd"});
-//             return;
-//         }
-        
-//         const hashedPassword = await bcrypt.hash(password,10);
-//         logger.info(`Password hashed successfully for driver with email: ${email}`);
-        
-//         const driver = await Driver.create({
-//             name,
-//             email,
-//             password: hashedPassword,
-//             phone_number,
-//             license_number,
-//             car_number,
-//             car_model,
-//         });
-        
-//         if(driver){
-//             logger.info(`Driver created successfully: ${driver}`);
-//             return res.status(201).json({_id: driver.id, email: driver.email});
-//         }
-//         else{
-//             logger.error("Driver data is not valid");
-//             return res.status(400).send({error: "Driver data is not valid"});
-//         }
-//     }catch(error){
-//         logger.error(`error in registerDriver ${error.message}`);
-//         res.status(500).json({message: 'Server error'});
-//     }
-
-//   }
-
-//@desc Login a Driver
-// const loginDriver = async(req,res) => {
-//     try{
-
-//         logger.info("inside loginDriver");
-
-//           const {email,password} = req.body;
-//           if(_.isEmpty(email) || _.isEmpty(password)){
-//               logger.error(`All fields are mandatory. Error: ${error.message}`);
-//               res.status(400).send({error:"All fields are mandatory"});
-//               return;
-//           }
-          
-//           const driver = await Driver.findOne({email});
-          
-//           //compare password with hashed password
-//           //user.password is the hashed password from db
-//           if(driver && (await bcrypt.compare(password, driver.password))){
-//               const accessToken = jwt.sign({
-//                   user:{
-//                       name: driver.name,
-//                       email: driver.email,
-//                       phone_number: driver.phone_number,
-//                       license_number: driver.license_number,
-//                       car_number: driver.car_number,
-//                       car_model: driver.car_model, 
-//                       id: driver.id,
-//                   },
-//               }, process.env.ACCESS_TOKEN_SECRET,
-//               {
-//                   expiresIn: "14m"
-//               });
-//               logger.info("ACCESS TOKEN successfully generated")
-//               res.status(200).json({accessToken});
-//               return;
-//           } 
-//           else{
-//               logger.error(`Email or Password is not valid. Error: ${error.message}`)
-//               res.status(401).send({error: "Email or Password is not valid"})
-//           }
-//         } catch(err)  {
-//             logger.error('Error in Driver login');
-//             res.status(500).json({message: 'server error'});
-//         }
-// };
-
-
 
 //@desc Reset Password
 const resetPassword = async (req, res) => {
   try {
 
     logger.info('Inside resetPassword');
-    const { email, currentPassword, newPassword } = req.body;
+    const { currentPassword, newPassword } = req.body;
+    const { id, email } = req.user;
 
     // Check if email and password are provided
-    if (_.isEmpty(email) || _.isEmpty(currentPassword) || _.isEmpty(newPassword)) {
-      logger.error('Email and Passwords are required');
-      res.status(400).send({ error: 'Email and Password are required' });
+    if (_.isEmpty(currentPassword) || _.isEmpty(newPassword)) {
+      logger.error('All fields are required');
+      res.status(400).send({ error: 'All fields are required' });
       return;
     }
 
@@ -246,6 +136,10 @@ const resetPassword = async (req, res) => {
       return;
     }
 
+    if(currentPassword == newPassword){
+      return res.status(401).json({ error: "New Password cannot be same as Current Password" });
+    }
+
     const passwordMatch = await bcrypt.compare(currentPassword, user.password);
     if (!passwordMatch) {
       return res.status(401).json({ error: "Current password is incorrect" });
@@ -255,7 +149,7 @@ const resetPassword = async (req, res) => {
     const hashedPassword = await bcrypt.hash(newPassword, 10);
     logger.info(`New Password hashed successfully for user with email: ${email}`);
     const updatedUser = await User.findOneAndUpdate(
-      { email },
+      { _id: id },
       { password: hashedPassword },
       { new: true }
     );

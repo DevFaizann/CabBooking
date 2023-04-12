@@ -132,3 +132,32 @@
 {"level":"error","message":"Error in User login"}
 {"level":"error","message":"error in userRegistration sendEmail is not defined"}
 {"level":"error","message":"User with mockuser123@gmail.com already registered"}
+{"level":"error","message":"User is not authorized"}
+{"level":"error","message":"User is not authorized"}
+{"level":"error","message":"Either id or email is required to get the user info"}
+{"level":"error","message":"User with adminkavin@gmail.com already registered"}
+{"level":"error","message":"Error in getAllBookings: $regex has to be a string"}
+{"level":"error","message":"Error in getAllBookings: $regex has to be a string"}
+{"level":"error","message":"Error in getAllBookings: BSON field 'skip' value must be >= 0, actual value '-10'"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in createBooking: fare is not defined"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('642bc62784a83e117fae07d5'), name: \"kavin\", email: \"driverkavin@gmail.com\", password: \"$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu\", phoneNumber: \"85894\", role: \"driver\", isDeleted: false, isAvailable: false, createdAt: new Date(1680590375750), updatedAt: new Date(1680674227457), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('642bc62784a83e117fae07d5'), name: \"kavin\", email: \"driverkavin@gmail.com\", password: \"$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu\", phoneNumber: \"85894\", role: \"driver\", isDeleted: false, isAvailable: false, createdAt: new Date(1680590375750), updatedAt: new Date(1680674445923), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('642bc62784a83e117fae07d5'), name: \"kavin\", email: \"driverkavin@gmail.com\", password: \"$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu\", phoneNumber: \"85894\", role: \"driver\", isDeleted: false, isAvailable: false, createdAt: new Date(1680590375750), updatedAt: new Date(1680674723032), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in validateToken: Cannot destructure property 'userPassword' of 'req.user.currentPassword' as it is undefined."}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in getAllBookings: Invalid $project :: caused by :: Unknown expression $arrayElement"}
+{"level":"error","message":"Error in getAllBookings: PlanExecutor error during aggregation :: caused by :: $divide only supports numeric types, not object and int"}
+{"level":"error","message":"Error in decodeAccessToken: jwt expired"}
+{"level":"error","message":"Error in getAllBookings: mongoose is not defined"}
+{"level":"error","message":"Error in getAllBookings: mongoose is not defined"}
+{"level":"error","message":"Error in getAllBookings: Cast to Number failed for value \"234rs\" (type string) at path \"fare\" for model \"Booking\""}
+{"level":"error","message":"Error in User login"}
+{"level":"error","message":"Error in User login"}

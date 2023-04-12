@@ -1602,3 +1602,825 @@
 {"level":"info","message":"Server runnning on port 5001"}
 {"level":"info","message":"Server runnning on port 5001"}
 {"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'kavin',\n  email: 'userkavin@gmail.com',\n  password: '$2b$10$N5J8M1MRToTcGSrerLURhO1xlcqs5YeXGgbdB.s4xjJ/05Xy.PIQy',\n  phoneNumber: '85894',\n  role: 'user',\n  isDeleted: false,\n  isAvailable: false,\n  _id: new ObjectId(\"642bc5ea84a83e117fae07d2\"),\n  createdAt: 2023-04-04T06:38:34.504Z,\n  updatedAt: 2023-04-04T06:38:34.504Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: driverkavin@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'kavin',\n  email: 'driverkavin@gmail.com',\n  password: '$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu',\n  phoneNumber: '85894',\n  role: 'driver',\n  isDeleted: false,\n  isAvailable: false,\n  _id: new ObjectId(\"642bc62784a83e117fae07d5\"),\n  createdAt: 2023-04-04T06:39:35.750Z,\n  updatedAt: 2023-04-04T06:39:35.750Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: adminkavin@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'kavin',\n  email: 'adminkavin@gmail.com',\n  password: '$2b$10$sxYWsDKg5a6t6571pGdp4u6z4QwToUOYM0BCejPfF1SifBkxiyVt.',\n  phoneNumber: '85894',\n  role: 'admin',\n  isDeleted: false,\n  isAvailable: false,\n  _id: new ObjectId(\"642bc63884a83e117fae07d8\"),\n  createdAt: 2023-04-04T06:39:52.730Z,\n  updatedAt: 2023-04-04T06:39:52.730Z,\n  __v: 0\n}"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"User is not authorized"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"error","message":"Either id or email is required to get the user info"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"inside registerUser"}
+{"level":"error","message":"User with adminkavin@gmail.com already registered"}
+{"level":"info","message":"inside registerUser"}
+{"level":"info","message":"Password hashed successfully for user with email: kavinsurya@gmail.com"}
+{"level":"info","message":"User created successfully: {\n  name: 'Kavin Surya',\n  email: 'kavinsurya@gmail.com',\n  password: '$2b$10$F/Kkht2IaQ2r1E2A4cMjBOTpJkWfmocSJJ7U2vqkBa4o8FTpKBQvm',\n  phoneNumber: '85894',\n  role: 'driver',\n  isDeleted: false,\n  isAvailable: false,\n  _id: new ObjectId(\"642bcb7e84a83e117fae07f1\"),\n  createdAt: 2023-04-04T07:02:22.028Z,\n  updatedAt: 2023-04-04T07:02:22.028Z,\n  __v: 0\n}"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"inside distance api"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Agra, Uttar Pradesh, India"}
+{"level":"info","message":"New booking created with id: 642be7fe84a83e117fae07fc"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Here is the list of all the Users!"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Here is the list of all the Users!"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"User info retrieved successfully"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"User info retrieved successfully"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"User info retrieved successfully"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"User info retrieved successfully"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: $regex has to be a string"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: $regex has to be a string"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: BSON field 'skip' value must be >= 0, actual value '-10'"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: fare is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('642bc62784a83e117fae07d5'), name: \"kavin\", email: \"driverkavin@gmail.com\", password: \"$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu\", phoneNumber: \"85894\", role: \"driver\", isDeleted: false, isAvailable: false, createdAt: new Date(1680590375750), updatedAt: new Date(1680674227457), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('642bc62784a83e117fae07d5'), name: \"kavin\", email: \"driverkavin@gmail.com\", password: \"$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu\", phoneNumber: \"85894\", role: \"driver\", isDeleted: false, isAvailable: false, createdAt: new Date(1680590375750), updatedAt: new Date(1680674445923), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in createBooking: Plan executor error during findAndModify :: caused by :: Can't extract geo keys: { _id: ObjectId('642bc62784a83e117fae07d5'), name: \"kavin\", email: \"driverkavin@gmail.com\", password: \"$2b$10$oVHcj1ivk95mCjczzohCZ.EEaswlCyzIt8Go79f.wjCbN2kEOiCtu\", phoneNumber: \"85894\", role: \"driver\", isDeleted: false, isAvailable: false, createdAt: new Date(1680590375750), updatedAt: new Date(1680674723032), __v: 0, location: { type: \"Point\", coordinates: [ null, null ] } }  Point must only contain numeric elements"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Calculating the distance between pickup and dropoff location"}
+{"level":"info","message":"New booking created with id: 642d10e0c6bebbaffa2dd491"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Calculating the distance between pickup and dropoff location"}
+{"level":"info","message":"New booking created with id: 642d110dc6bebbaffa2dd496"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Calculating the distance between pickup and dropoff location"}
+{"level":"info","message":"New booking created with id: 642d1300bc01abbbdd4fe998"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Calculating the distance between pickup and dropoff location"}
+{"level":"info","message":"New booking created with id: 642d1acd4ab70f8bf3c7f402"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getAllUsers"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"inside getUserProfile"}
+{"level":"info","message":"Users info retrieved successfully. Use ID or EMAIL for single user"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"No drivers availble within 2km of range of pickup location: XRMC+M2P, Keshavrao Khadye Marg, Royal Western India Turf Club, Mahalakshmi, Mumbai, Maharashtra 400034, India"}
+{"level":"info","message":"Inside verifyTokenAndAuthorization"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Found 1 drivers within 2 km of range of pickup location: Hinduja College, 315, New Charni Road, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004, India"}
+{"level":"info","message":"Calculating the distance between pickup and dropoff location"}
+{"level":"info","message":"New booking created with id: 642d2d3095163bc065dbc578"}
+{"level":"info","message":"Email Sent"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"error","message":"Error in validateToken: Cannot destructure property 'userPassword' of 'req.user.currentPassword' as it is undefined."}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationResetPass"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: Invalid $project :: caused by :: Unknown expression $arrayElement"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: PlanExecutor error during aggregation :: caused by :: $divide only supports numeric types, not object and int"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"error","message":"Error in decodeAccessToken: jwt expired"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside decodeAccessToken"}
+{"level":"info","message":"AccessToken successfully decoded"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: mongoose is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: mongoose is not defined"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"error","message":"Error in getAllBookings: Cast to Number failed for value \"234rs\" (type string) at path \"fare\" for model \"Booking\""}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Server runnning on port 5001"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"Inside verifyTokenAndAdmin"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside getAllBookings"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"Inside verifyTokenAndAuthorizationQuery"}
+{"level":"info","message":"Inside validateToken"}
+{"level":"info","message":"Inside resetPassword"}
+{"level":"info","message":"New Password hashed successfully for user with email: userkavin@gmail.com"}
+{"level":"info","message":"inside loginUser"}
+{"level":"error","message":"Error in User login"}
+{"level":"info","message":"inside loginUser"}
+{"level":"info","message":"ACCESS TOKEN successfully generated"}

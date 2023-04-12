@@ -46,14 +46,14 @@ const bookingSchema = new mongoose.Schema({
 
 
     fare: {
-        type: String,
+        type: Number,
         required: true,
     },
 
     bookingStatus: {
         type: String,
         required: true,
-        default: 'available',
+        default: 'Available',
     }
 },
 {

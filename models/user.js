@@ -58,10 +58,10 @@ const userSchema = new mongoose.Schema({
         default: false
     },
 
-    currentBooking: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: 'Booking'
-    },
+    // currentBooking: {
+    //     type: mongoose.Schema.Types.ObjectId,
+    //     ref: 'Booking'
+    // },
 
     location: {
         type: {

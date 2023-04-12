@@ -12,20 +12,14 @@ const createBooking = async (req,res) => {
 	try{
 		const {
 			pickupLocation,
-			dropoffLocation,
-			fare,
-			bookingStatus
-		} = req.body;
-
-		
-	
-		// console.log("req.body:", req.body);
+			dropoffLocation
+		} = req.body;		
 
 		const pickupGeocode = await geocodeAddress(pickupLocation);
 		const dropoffGeocode = await geocodeAddress(dropoffLocation);
 	
 	
-		if(_.isEmpty(dropoffLocation) || _.isEmpty(pickupLocation) || _.isEmpty(fare) || _.isEmpty(bookingStatus)) {
+		if(_.isEmpty(dropoffLocation) || _.isEmpty(pickupLocation)) {
 			logger.error(`All fields are mandatory. Error: ${error.message}`);
 			res.status(400).send({
 				error: "All fields are mandatory"
@@ -35,23 +29,20 @@ const createBooking = async (req,res) => {
 		const userId = req.query.userId;
 		const driverId = req.query.driverId;
 
-
-
 		if (!userId || !driverId) {
 		      logger.error(`Both user and driver IDs are required. Error: ${error.message}`);
 		      res.status(404).send({ error: `User with ID ${userId} not found` });
 		      return;
 		    }
 
-		//     console.log("user: ", user);
-
 		    const driver = await User.findById(driverId);
 
-		    const { longitude, latitude } = req.body;
+		    // const { longitude, latitude } = req.body;
 		    await User.findByIdAndUpdate(driverId, {
 		    	location: {
 		    		type: 'Point',
-		    		coordinates: [longitude, latitude]
+		    		coordinates: [72.8184519, 18.9528049]
+		    		
 		    	}
 		    });
 
@@ -62,7 +53,6 @@ const createBooking = async (req,res) => {
 		    			$geometry: {
 		    				type: "Point",
 		    				coordinates: [pickupGeocode.longitude, pickupGeocode.latitude],
-
 		    			},
 		    			$maxDistance: 2000,
 		    		},
@@ -88,26 +78,32 @@ const createBooking = async (req,res) => {
 		    	//send notification to driver
 		    	sendEmail();
 		    };
+
+		 const distanceData = await getDistance(pickupLocation, dropoffLocation);
 	
 		 const booking = await Booking.create({
 		 	user: userId,
 		 	driver:driverId,
 		 	pickupLocation: pickupGeocode,
 		 	dropoffLocation: dropoffGeocode,
-		 	fare,
-		 	bookingStatus
+		 	fare: 266,
+		 	bookingStatus: "Available",
+		 	distance: distanceData.distance,
+		 	duration: distanceData.duration
 		 });
-
-		 console.log("booking ", booking);
 	
-		  await User.findByIdAndUpdate(userId, {
-		  	$push: {
-		  		currentBooking: booking._id
-		  	},
-		  });
+		  // await User.findByIdAndUpdate(userId, {
+		  // 	$push: {
+		  // 		currentBooking: booking._id
+		  // 	},
+		  // });
 	
 		  logger.info(`New booking created with id: ${booking.id}`);
-		  res.status(201).json(booking);
+		  res.status(201).json({booking,
+			distance: distanceData.distance,
+			duration: distanceData.duration
+			});
+
 	} catch(error) {
 	  logger.error(`Error in createBooking: ${error.message}`);
 	  res.status(500).json({
@@ -117,6 +113,34 @@ const createBooking = async (req,res) => {
 };
 
 
+const getDistance = async (pickupLocation, dropoffLocation) => {
+	try{
+		logger.info("Calculating the distance between pickup and dropoff location");
+
+		const origins = encodeURIComponent(pickupLocation);
+		const destinations = encodeURIComponent(dropoffLocation);
+		const units = "imperial";
+		const apiKey = process.env.GOOGLE_MAPS_API_KEY;
+
+		const url = `https://maps.googleapis.com/maps/api/distancematrix/json?origins=${origins}&destinations=${destinations}&units=${units}&key=${apiKey}`;
+
+		const response = await axios.get(url);
+
+		if (response.data.status === "OK") {
+					const result = response.data.rows[0].elements[0];
+					const distance = result.distance.text;
+					const duration = result.duration.text;
+					return { distance, duration };
+				} else {
+					logger.error(`Failed to calculate distance. Error: ${response.data.status}`);
+				}
+	} catch(error) {
+		logger.error(`Error in getDistance: ${error.message}`);
+		res.status(500).json({
+			message: 'Server Error',
+		});
+	}
+}
 
 async function geocodeAddress(address) {
 	const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(
@@ -218,15 +242,84 @@ const sendEmail = () => {
 
 
 //@desc Get All Bookings (ADMIN only)
+// const getAllBookings = async(req, res) => {
+// 	try{
+
+// 		logger.info('Inside getAllBookings');
+
+// 		const bookings = await Booking.find().populate('user driver');
+// 		res.status(200).json({bookings});
+
+
+// 	} catch(error){
+
+// 		logger.error(`Error in getAllBookings: ${error.message}`);
+// 		res.status(500).json({
+// 			message: 'Server Error',
+// 		});
+// 	}
+// };
+
+//uncomment this
 const getAllBookings = async(req, res) => {
+	logger.info('Inside getAllBookings');
 	try{
+		const { 
+			page = 1, 
+			limit = 10,
+			name, 
+			email, 
+			role, 
+			userId, 
+			driverId,
+			bookingStatus
+		} = req.query;
 
-		logger.info('Inside getAllBookings');
+		let filter = {};
 
-		const bookings = await Booking.find().populate('user driver');
-		res.status(200).json({bookings});
+		if (name) {
+		    filter['user.name'] = { $regex: name, $options: 'i' };
+		}
+
+		if (email) {
+		    filter['user.email'] = { $regex: email, $options: 'i' };
+		}
+
+		if(role){
+			filter['user.role'] = role;
+		}
+
+		if(userId){
+			filter.user = userId;
+		}
+
+		if(driverId){
+			filter.driver = driverId;
+		}
+
+		if(bookingStatus){
+			filter.bookingStatus = bookingStatus;
+		}
+
+		const skip = (page - 1) * limit;
+
+		console.log(filter);
 
 
+		const bookings = await Booking.find(filter)
+			.populate('user driver')
+			.skip(skip)
+			.limit(limit)
+			.sort({createdAt: -1})
+			.lean()
+			.exec();
+
+			console.log("bookings", bookings);
+
+			const count = await Booking.countDocuments(filter);
+			const totalPages = Math.ceil(count / limit);
+
+		res.status(200).json({bookings, totalPages, currentPage: +page});
 	} catch(error){
 
 		logger.error(`Error in getAllBookings: ${error.message}`);
@@ -235,5 +328,108 @@ const getAllBookings = async(req, res) => {
 		});
 	}
 };
+
+  //up here
+
+//   const getAllBookings = async (req, res) => {
+//   try {
+//     logger.info('Inside getAllBookings');
+//     const {
+//       page = 1,
+//       limit = 10,
+//       name,
+//       email,
+//       role,
+//       userId,
+//       driverId,
+//       fare,
+//       bookingStatus
+//     } = req.query;
+
+//     const match = {};
+
+//     if (name) {
+//       match['user.name'] = { $regex: name, $options: 'i' };
+//     }
+
+//     if (email) {
+//       match['user.email'] = { $regex: email, $options: 'i' };
+//     }
+
+//     if (role) {
+//       match['user.role'] = role;
+//     }
+
+//     if (userId) {
+//       match['user._id'] = mongoose.Types.ObjectId(userId);
+//     }
+
+//     if (driverId) {
+//       match['driver._id'] = mongoose.Types.ObjectId(driverId);
+//     }
+
+//     if (fare) {
+//       match.fare = fare;
+//     }
+
+//     if (bookingStatus) {
+//       match.bookingStatus = bookingStatus;
+//     }
+
+//     const pipeline = [
+//       { $match: match },
+//       {
+//         $lookup: {
+//           from: 'users',
+//           localField: 'user',
+//           foreignField: '_id',
+//           as: 'user'
+//         }
+//       },
+//       {
+//         $lookup: {
+//           from: 'users',
+//           localField: 'driver',
+//           foreignField: '_id',
+//           as: 'driver'
+//         }
+//       },
+//       { $unwind: '$user' },
+//       { $unwind: { path: '$driver', preserveNullAndEmptyArrays: true } },
+//       {
+//         $facet: {
+//           data: [
+//              { $sort: { createdAt: -1 } },
+//             { $skip: (page - 1) * limit },
+//             { $limit: +limit },
+//           ],
+//           count: [
+//             { $count: 'total' },
+//           ],
+//         },
+//       },
+//       {
+//         $project: {
+//           bookings: '$data',
+//           count: { $arrayElemAt: ['$count.count', 0] },
+//           totalPages: {
+//             $ceil: { $divide: [{ $arrayElemAt: ['$count.count', 0] }, +limit] },
+//           },
+//           currentPage: +page,
+//         },
+//       },
+//     ];
+
+//     const result = await Booking.aggregate(pipeline);
+
+//     res.status(200).json(result[0]);
+//   } catch (error) {
+//     logger.error(`Error in getAllBookings: ${error.message}`);
+//     res.status(500).json({
+//       message: 'Server Error'
+//     });
+//   }
+// };
+
 
 module.exports = {createBooking, getBookings, getAllBookings};

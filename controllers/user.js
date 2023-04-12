@@ -22,12 +22,17 @@ const getUserProfile = async(req, res) => {
             queryParam = {email: req.query.email};
 
         } else{
-            logger.error('Either id or email is required to get the user info');
-            return res.status(400).json({message: 'Either id or email is required to get the user info'});
+            // logger.error('Either id or email is required to get the user info');
+            // return res.status(400).json({message: 'Either id or email is required to get the user info'});
+            const userId = req.user.id;
+            const user = await User.findById(userId);
+            logger.info('Users info retrieved successfully. Use ID or EMAIL for single user');
+            res.status(200).json({user});
+            return;
         }
         // const userId = req.query.id;
         // console.log(userId);
-        const user = await User.findOne(queryParam);
+        const user = await User.findOne(queryParam).lean();
         // console.log(user);
 
         if(!user){
@@ -46,13 +51,17 @@ const getAllUsers = async(req, res) => {
     logger.info("inside getAllUsers");
 
     try{
-        const { page = 1, limit = 10, name, role } = req.query;
+        const { page = 1, limit = 10, name, email, role } = req.query;
 
 
         const filter = {};
 
         if (name) {
             filter.name = { $regex: name, $options: 'i' };
+          }
+
+        if (email) {
+            filter.email = { $regex: email, $options: 'i' };
           }
 
           if(role){
@@ -73,7 +82,7 @@ const getAllUsers = async(req, res) => {
 
         res.status(200).json({users, totalPages, currentPage: +page});
     } catch(err){
-        logger.error(error);
+        logger.error(`Error in getAllUsers: ${error.message}`);
         res.status(500).json(err);
     }
 
@@ -143,7 +152,7 @@ const updateProfileByUser = async(req, res) => {
 //@desc Delete Profile
 const deleteUser = async(req, res) => {
     try{
-        //new code here
+        
         const user = await User.findByIdAndDelete(req.params.id)
 
         if(_.isEmpty(user)){
@@ -153,11 +162,11 @@ const deleteUser = async(req, res) => {
         user.isDeleted = true;
         await user.save();
 
-        //new code here
+        
         
         res.status(200).json("User has been deleted")
     } catch (err){
-        logger.error(error);
+        logger.error(err);
         res.status(500).json(err);
     }
 }

@@ -70,10 +70,11 @@ const verifyTokenAndAuthorizationQuery = (req, res, next) => {
 
   validateToken(req, res, () => {
     const userIdFromToken = req.user.id;
-    const userIdFromQuery = req.query.id;
+    const userIdFromQuery = req.query.id || userIdFromToken;
 
 
     if (userIdFromToken === userIdFromQuery || req.user.isAdmin) {
+      req.userId = userIdFromQuery;
       next();
     } else {
       res.status(403).json("You are not allowed to do that!");
@@ -88,6 +89,7 @@ const verifyTokenAndAuthorizationQuery = (req, res, next) => {
       });
     }
 };
+
 
 
 const verifyTokenAndAdmin = (req, res, next) => {
@@ -117,4 +119,4 @@ const verifyTokenAndAdmin = (req, res, next) => {
   }
 };
 
-module.exports = {validateToken, verifyTokenAndAuthorization, verifyTokenAndAuthorizationQuery, verifyTokenAndAdmin};
+module.exports = {validateToken, verifyTokenAndAuthorization, verifyTokenAndAdmin, verifyTokenAndAuthorizationQuery};
