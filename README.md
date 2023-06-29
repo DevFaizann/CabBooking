@@ -1,9 +1,11 @@
+>Authored by: <a href="https://github.com/DevFaizann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevFaizann" height="30" width="40"></a>
 <h1 align="center">Welcome to Online Cab Booking System
 (Uber lite)</h1>
 
 The Online Cab Booking System is a server-side application designed to facilitate the efficient management of an online cab booking service. It provides a comprehensive set of APIs for handling various aspects of the cab booking process, including user registration, cab availability management, trip management, fare calculation, and payment processing.
 
 The system allows users to register, authenticate, and book cabs seamlessly. It enables real-time tracking of cab locations and provides users with accurate estimates of trip fares. The application also incorporates a trip history feature, allowing users to view their previous trips and provide ratings for their overall experience.
+
 
 ## Table of Contents
 - [Features](#features)
@@ -62,7 +64,7 @@ To contribute to the Online Cab Booking System:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faizanmansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizanmansuri" height="30" width="40" /></a>
-<a href="https://medium.com/@faizanmansuri.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faizanmansuri.work" height="30" width="40" /></a>
+<a href="https://medium.com/@faizanmansuri.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faizanmansuri.work" height="30" width="40" /></a> <a href="https://github.com/DevFaizann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevFaizann" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
