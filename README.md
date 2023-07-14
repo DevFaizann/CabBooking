@@ -23,11 +23,11 @@ The system allows users to register, authenticate, and book cabs seamlessly. It 
 ## Technologies
 The Online Cab Booking System is built using the following technologies:
 
-- Node.js: A JavaScript runtime environment for server-side development.
-- Express.js: A fast and minimalist web application framework for Node.js.
-- MongoDB: A NoSQL database for storing user information, cab details, and trip data.
-- JWT (JSON Web Tokens): Used for secure user authentication and authorization.
-- Twilio: Used for SMS notifications and communication with users.
+- **Node.js:** A JavaScript runtime environment for server-side development.
+- **Express.js:** A fast and minimalist web application framework for Node.js.
+- **MongoDB:** A NoSQL database for storing user information, cab details, and trip data.
+- **JWT (JSON Web Tokens):** Used for secure user authentication and authorization.
+- **Twilio:** Used for SMS notifications and communication with users.
 
 ## Getting Started
 To get started with the Online Cab Booking System, follow these steps:
@@ -56,15 +56,27 @@ Contributions are welcome! If you find any issues or want to add new features, p
 
 To contribute to the Online Cab Booking System:
 1. Fork the repository.
-2. Create your feature branch: git checkout -b feature/your-feature-name.
-3. Commit your changes: git commit -m 'Add some feature'.
-4. Push to the branch: git push origin feature/your-feature-name.
+2. Create your feature branch:
+   
+   ```
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit your changes:
+   
+   ```
+   git commit -m 'Add some feature'
+   ```
+4. Push to the branch:
+   
+   ```
+   git push origin feature/your-feature-name
+   ```
 5. Submit a pull request.
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faizanmansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizanmansuri" height="30" width="40" /></a>
-<a href="https://medium.com/@faizanmansuri.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faizanmansuri.work" height="30" width="40" /></a> <a href="https://github.com/DevFaizann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevFaizann" height="30" width="40"></a>
+<a href="https://medium.com/@faizanmansuri.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faizanmansuri.work" height="30" width="40" /></a> <a href="https://twitter.com/DevFaizann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevFaizann" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
